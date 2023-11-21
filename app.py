@@ -6,7 +6,7 @@ import pandas as pd
 
 
 # New changes 
-print("Adding some new changes to see the automatic build Part 2 - Live class")
+print("Adding some lines of comment in the code to see if the build is automated!")
 
 # Load the models from the files
 loaded_lr_model = joblib.load('./model/lr_model.joblib')
